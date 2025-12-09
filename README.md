@@ -1,3 +1,5 @@
+**Live Demo:** https://use-effect-use-ref-exercise.vercel.app/
+
 # Card Drawer Exercise
 
 A simple React app to practice using `useEffect` and `useRef` hooks. Click the button to draw cards from a deck!
@@ -12,7 +14,3 @@ npm run dev
 ```
 
 That's it! Open the URL it gives you in your browser.
-
-# Form Exercise
-
-**Live Demo:** https://use-effect-use-ref-exercise.vercel.app/
